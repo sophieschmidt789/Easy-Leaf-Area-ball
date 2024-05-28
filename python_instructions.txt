@@ -18,5 +18,6 @@ Misc packages to install in our new environment called easy_leaf_area:
 >pip install matplotlib
 
 To run program:
+cd C:\Users\SSChmidt\Documents
 >python elaWin2023.py
 >python elaTRIAL.py
