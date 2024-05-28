@@ -20,7 +20,7 @@ from pylab import polyfit, polyval
 import numpy as np
 def Show_pic(pic):
 	im = pic.copy()
-	im.thumbnail((800,800), Image.ANTIALIAS)
+	im.thumbnail((800,800))
 	imtk=ImageTk.PhotoImage(im)
 	label = tk.Label(image=imtk, height =600, width = 800)
 #	label = Label(image=imtk, height =600, width = 800)
