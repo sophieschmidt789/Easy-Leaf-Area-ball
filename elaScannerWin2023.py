@@ -15,7 +15,8 @@ import math
 
 import scipy
 #import pylab
-from scipy import polyval, polyfit, ndimage
+from numpy import polyval, polyfit
+from scipy import ndimage
 from pylab import polyfit, polyval
 
 import numpy as np
