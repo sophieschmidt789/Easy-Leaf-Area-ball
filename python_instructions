@@ -1,0 +1,20 @@
+IN CMD Prompt:
+
+First install GIT on computer and connect:
+>git --version #to double check
+>git config --global user.name "sophieschmidt789"
+>git confic --global user.email "sophie7@iastate.edu"
+>git clone https://github.com/sophieschmidt789/Easy-Leaf-Area-ball.git
+
+Create an environment:
+>cd Easy-Leaf-Area-ball
+Easy-Leaf-Area-ball>python -m venv easy_leaf_area #make sure to confirm you are in the right directory
+Easy-Leaf-Area-ball>easy_leaf_area\Scripts\activate
+
+Misc packages to install in our new environment called easy_leaf_area:
+>pip install pillow
+>pip install scipy
+>pip install numpy
+
+To run program:
+>python elaWin2023.py
