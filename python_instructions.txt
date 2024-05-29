@@ -17,7 +17,7 @@ Misc packages to install in our new environment called easy_leaf_area:
 >pip install numpy
 >pip install matplotlib
 
-To run program:
-cd C:\Users\SSChmidt\Documents
+To run program on comp. PC:
+cd "C:\Users\SSChmidt\OneDrive - Ball Horticultural Company\Bio_Petunia"
 >python elaWin2023.py
 >python elaTRIAL.py
