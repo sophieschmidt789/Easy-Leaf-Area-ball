@@ -7,7 +7,7 @@ First install GIT on computer and connect:
 >git clone https://github.com/sophieschmidt789/Easy-Leaf-Area-ball.git
 
 Create an environment:
->cd Easy-Leaf-Area-ball
+cd Easy-Leaf-Area-ball
 Easy-Leaf-Area-ball>python -m venv easy_leaf_area #make sure to confirm you are in the right directory
 Easy-Leaf-Area-ball>easy_leaf_area\Scripts\activate
 
@@ -21,3 +21,12 @@ To run program on comp. PC:
 cd "C:\Users\SSChmidt\OneDrive - Ball Horticultural Company\Bio_Petunia"
 >python elaWin2023.py
 >python elaTRIAL.py
+
+Onstartup:
+cd "C:\Users\SSChmidt\OneDrive - Ball Horticultural Company\Bio_Petunia"
+python -m venv easy_leaf_area #create virtual environment
+easy_leaf_area\Scripts\activate #activate virtual environment
+
+
+Push or pull git 
+
