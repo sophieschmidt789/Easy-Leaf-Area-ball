@@ -1,14 +1,16 @@
 import os, sys
 
-
+import tkinter as tk
+from tkinter import filedialog
 #from Tkinter import Frame, Tk, Label, Button, Scale, HORIZONTAL, Checkbutton, IntVar
 from tkinter import *
 #from tkFileDialog import *
 from tkinter import filedialog
 from tkinter.filedialog import askopenfilename
+from tkinter.filedialog import askdirectory
 from PIL import Image, ImageStat, ImageDraw, ImageFont, TiffImagePlugin, ImageTk
 
-import tkinter as tk
+
 from scipy import ndimage
 
 import scipy
