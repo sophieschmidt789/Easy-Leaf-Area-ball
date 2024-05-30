@@ -29,6 +29,9 @@ easy_leaf_area\Scripts\activate #activate virtual environment
 
 
 Push or pull git in the directory you are working in
+1. First update from anychanges online
+git fetch origin
+git merge origin/master
 git status
 git add filename.py
 git commit -m "any comments about the changed"
