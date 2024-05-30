@@ -34,6 +34,6 @@ git fetch origin
 git merge origin/master
 git status
 git add filename.py
-git commit -m "any comments about the changed"
+git commit -m "any comments about the changed file"
 
 
